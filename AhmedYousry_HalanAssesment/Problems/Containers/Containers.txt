@@ -1,0 +1,7 @@
+﻿
+Containers Problem PseudoCode:
+
+1- Create "Container" class with members (Id, Title, Capacity, FilledAmount)
+2- Initialize a list of two objects of class "Container" and FilledAmount = 0
+3- var x = List.Find where container capacity = 5
+4- While x.FilledAmount <= 4 : Fill(x);
